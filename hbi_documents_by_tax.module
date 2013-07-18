@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the hbi_documents_by_tax feature.
+ */
+
+include_once 'hbi_documents_by_tax.features.inc';
